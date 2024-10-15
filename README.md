@@ -35,5 +35,5 @@ Welcome to the **User Management API** built with **Go** using the **Fiber** fra
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-management-api.git
-   cd user-management-api
+   git clone https://github.com/Pat0sya/mangoos.git
+   cd mangoos
