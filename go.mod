@@ -31,7 +31,7 @@ require (
 )
 
 require (
-	github.com/gofiber/fiber v1.14.6
+	
 	github.com/xdg-go/scram v1.1.2 // indirect
 )
 

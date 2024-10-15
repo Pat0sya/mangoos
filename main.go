@@ -12,4 +12,5 @@ func main() {
 	routes.UserRoute(app)
 	configs.ConnectDB()
 	app.Listen("127.0.0.1:6455")
+
 }
